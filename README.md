@@ -17,3 +17,7 @@ https://manoharreddyporeddy.quora.com/Competitive-Programming-on-TopCoder
 	
 	2. AkariDaisukiDiv2 - https://arena.topcoder.com/#/u/practiceCode/15124/25486/11889/2/312848
 	Solve it properly!
+	
+	3. AmebaDiv2  - https://arena.topcoder.com/#/u/practiceCode/15929/39331/13089/2/321295
+	It's was a pretty easy one so I'm not feeling rewarded or something.
+	Solve it properly!
