@@ -28,3 +28,7 @@ https://manoharreddyporeddy.quora.com/Competitive-Programming-on-TopCoder
 	
 	5. CoinFlipsDiv2 - https://arena.topcoder.com/index.html#/u/practiceCode/16679/50935/14138/2/328075
 	Solve it properly!
+	
+	6. ElectionFraudDiv2 - https://arena.topcoder.com/index.html#/u/practiceCode/15141/26044/11946/2/313156
+	Took me 3 days to solve it, but only after I saw some other answer. I was in a good direction but I guess I didn't handle all the cases.
+	A bit frustrating but the next one will be better.
